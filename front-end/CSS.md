@@ -1,10 +1,13 @@
 
 ## 标准
 [CSS Current Work](https://www.w3.org/Style/CSS/current-work)
+
   1. box model 研究
     - [W3C官方](https://www.w3.org/TR/css3-box/)
+
 	2. CSS Flexbox 研究
     - [W3C官方](https://www.w3.org/TR/css-flexbox-1/)
+
   3. CSS2.1 研究
     - [W3C官方](https://www.w3.org/TR/CSS2/)
 
