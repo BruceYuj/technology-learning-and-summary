@@ -4,11 +4,17 @@
    - [HTML5粒子编辑器](http://www.alloyteam.com/2015/01/particle-editor/)
 2. [ ] 动效的持续时间与缓动效果
    - [material design中的设计](https://juejin.im/post/597752bd6fb9a06ba73d783d)
+   - [动效落地方法](https://zhuanlan.zhihu.com/p/34815524)
+## 应用
+1. [ ] 旋转魔方轮播
+   - [旋转魔方轮播](https://juejin.im/post/5ae1a75a6fb9a07ac3632c8c)
+
 ## CSS
 ### 第三方库
 1. [ ] Animate.css 代码解析
    - [Aniamte.css](https://github.com/daneden/animate.css)
-
+2. [ ] Hover.css 代码解析
+   - [Hover.css](https://ianlunn.github.io/Hover/)
 ## Javascript
 ### 第三方库
 1. [ ] mo.js 代码解析
@@ -36,4 +42,6 @@
    - [demo](https://codepen.io/yoksel/pen/nxgrp)
 8. [ ] flocking
    - [demo](https://ekelleyv.github.io/Flocking/)
-9. [ ] [more canvas demos](https://github.com/bxm0927/canvas-special)
+9. [ ] 任意字符的点、线动效实现
+   - [canvas getImageData与任意字符图形点、线动效实现](https://www.zhangxinxu.com/wordpress/2017/12/canvas-getimagedata-letter-shape-animation/)
+10. [ ] [more canvas demos](https://github.com/bxm0927/canvas-special)

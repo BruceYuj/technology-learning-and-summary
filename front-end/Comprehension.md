@@ -15,3 +15,20 @@
 7. [ ] 登录状态维护的实现
    - [cookie and session](https://github.com/alsotang/node-lessons/tree/master/lesson16)
    - JWT
+8. [ ] 单页应用、多页应用以及服务器渲染
+   - [单页应用的优缺点](https://www.zhihu.com/question/20792064)
+9. [ ] 前端工程化
+   - [如何开发和部署前端代码](https://www.zhihu.com/question/20790576)
+   - [JavaScript Style Guide](https://github.com/standard/standard)
+10. [ ] web项目中的权限控制
+   - [如何处理客户端权限](https://github.com/bailicangdu/vue2-manage/issues/1)
+   - [vue中vue-router和vuex如何权限控制](https://www.cnblogs.com/zhengrunlin/p/8981017.html)
+11. [ ] CSS管理当中的命名
+   - [BEM风格](http://getbem.com/introduction/)
+12. [ ] regexp的系统总结
+   - [MDN, RegExp](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp)
+13. [ ] 面试相关
+   - [面试分享：2018阿里巴巴前端面试总结(题目+答案)](http://web.jobbole.com/94371/?utm_source=blog.jobbole.com&utm_medium=relatedPosts)
+   - [毕业一年左右的前端妹子面经总结](http://web.jobbole.com/94548/)
+   - [阿里、网易、滴滴共十次前端面试碰到的问题](http://web.jobbole.com/91429/)
+   - [前端开发者必备思维](http://web.jobbole.com/94190/)
