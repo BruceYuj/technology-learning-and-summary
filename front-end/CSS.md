@@ -66,6 +66,8 @@
      - [参考](https://www.zhangxinxu.com/wordpress/2010/04/css-content%E5%86%85%E5%AE%B9%E7%94%9F%E6%88%90%E6%8A%80%E6%9C%AF%E4%BB%A5%E5%8F%8A%E5%BA%94%E7%94%A8/)
   6. [ ] 立体质感的按钮效果实现
      - [参考](http://www.htmleaf.com/Demo/201507302329.html)
+  7. [ ] page flip效果实现
+     - [参考](http://fangyexu.com/gallery/scenery/S05_pageflip.html)
 
 ## 预处理器
   1. [ ] sass的总结
@@ -75,3 +77,4 @@
 
 ## 教程
 1. [ ] [30 seconds of CSS](https://30-seconds.github.io/30-seconds-of-css/)
+2. [ ] [Animating SVG with CSS](https://css-tricks.com/animating-svg-css/)

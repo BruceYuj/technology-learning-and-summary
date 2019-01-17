@@ -10,6 +10,9 @@ This is only the track about my learning !
 ## resource
 1. [knowledge resource](./resource.md)
 
+## computer science
+1. [Network](./computer-science/network.md)
+
 ## front-end
 1. [CSS Learning](./front-end/CSS.md)
 2. [JavaScript Learning](./front-end/JavaScript.md)
@@ -21,7 +24,12 @@ This is only the track about my learning !
 
 ## back-end
 1. [分布式系统](./back-end/分布式.md)
-1. [python](./back-end/python.md)
+2. [Python](./back-end/python.md)
+3. [Algorithm](./back-end/algorithm.md)
+4. [Go](./back-end/go.md)
+
+## operation
+1. [Linux](./operation/linux.md)
 
 ## artificial intelligence
 1. [Image Recognition](./artificial-intelligence/image-recognition.md)

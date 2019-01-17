@@ -34,11 +34,16 @@
 4. [ ] postCSS的使用
 
 ## 第三方库和框架
-### Vuejs解析
+### Vuejs
 1. [ ] 源码解析
    - vuejs源码解析视频
    - [Vue2.1.7源码学习](http://hcysun.me/2017/03/03/Vue源码学习/)
    - [Vue技术内幕](http://hcysun.me/vue-design/)
+2. [ ] 使用技巧 - 全局范围使用第三方库
+   - [Vue.js 中使用任意 JavaScript 第三方库](https://blog.csdn.net/shooke/article/details/78392222)
+#### 文章阅读
+  1. [ ] [记 vue 大型表单项目的一个性能问题](http://web.jobbole.com/92851/)
+   
 ### Reactjs
 1. [ ] 学习使用redux
    - [react redux implementing store from scratch](https://egghead.io/lessons/react-redux-implementing-store-from-scratch)

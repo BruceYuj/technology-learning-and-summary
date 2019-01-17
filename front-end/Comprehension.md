@@ -20,9 +20,10 @@
 9. [ ] 前端工程化
    - [如何开发和部署前端代码](https://www.zhihu.com/question/20790576)
    - [JavaScript Style Guide](https://github.com/standard/standard)
+   - [前端遇上Go: 静态资源增量更新的新实践](https://juejin.im/post/5b3efec1e51d4519610dbe30)
 10. [ ] web项目中的权限控制
-   - [如何处理客户端权限](https://github.com/bailicangdu/vue2-manage/issues/1)
-   - [vue中vue-router和vuex如何权限控制](https://www.cnblogs.com/zhengrunlin/p/8981017.html)
+    - [如何处理客户端权限](https://github.com/bailicangdu/vue2-manage/issues/1)
+    - [vue中vue-router和vuex如何权限控制](https://www.cnblogs.com/zhengrunlin/p/8981017.html)
 11. [ ] CSS管理当中的命名
     - [BEM风格](http://getbem.com/introduction/)
 12. [ ] regexp的系统总结
@@ -32,3 +33,10 @@
     - [毕业一年左右的前端妹子面经总结](http://web.jobbole.com/94548/)
     - [阿里、网易、滴滴共十次前端面试碰到的问题](http://web.jobbole.com/91429/)
     - [前端开发者必备思维](http://web.jobbole.com/94190/)
+    - [front end developer interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions/)
+    - [CS interview knowledge map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
+14. [ ] web浏览器实现实时的音视频
+    - [WebRTC2SIP与第三方SIP网关对接](https://blog.csdn.net/chenhande1990chenhan/article/details/76291174)
+    - [搭建webRTC](https://www.cnblogs.com/wunaozai/p/5520084.html)
+    - [sipml5](http://www.doubango.org/sipml5/)
+    - []()
