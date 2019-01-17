@@ -24,6 +24,8 @@
      - 如何理解em/rem/vw/vh等基本CSS unit
   6. [ ] CSS的cascading order
      - [a标签为什么不继承父标签的颜色](https://www.zhihu.com/question/28370313)
+  8. [ ] CSS的 media query
+     - [MDN, Using media queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 
 ## 实践
   1. [ ] 水平居中与垂直居中的各种实现方式

@@ -12,3 +12,10 @@
 
 3. [ ] webassembly的学习使用
    - [W3C, webassembly](https://www.w3.org/community/webassembly/)
+
+4. [ ] 同源策略
+   - [MDN, same-origin-policy](https://developer.mozilla.org/en-US/docs/Web/Security/Same-origin_policy)
+
+## 应用
+1. [ ] URL中的中文处理
+   - [url中中文乱码处理](https://blog.csdn.net/blueheart20/article/details/43766713)
