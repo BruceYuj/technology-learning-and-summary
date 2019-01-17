@@ -24,11 +24,11 @@
    - [如何处理客户端权限](https://github.com/bailicangdu/vue2-manage/issues/1)
    - [vue中vue-router和vuex如何权限控制](https://www.cnblogs.com/zhengrunlin/p/8981017.html)
 11. [ ] CSS管理当中的命名
-   - [BEM风格](http://getbem.com/introduction/)
+    - [BEM风格](http://getbem.com/introduction/)
 12. [ ] regexp的系统总结
-   - [MDN, RegExp](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp)
+    - [MDN, RegExp](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp)
 13. [ ] 面试相关
-   - [面试分享：2018阿里巴巴前端面试总结(题目+答案)](http://web.jobbole.com/94371/?utm_source=blog.jobbole.com&utm_medium=relatedPosts)
-   - [毕业一年左右的前端妹子面经总结](http://web.jobbole.com/94548/)
-   - [阿里、网易、滴滴共十次前端面试碰到的问题](http://web.jobbole.com/91429/)
-   - [前端开发者必备思维](http://web.jobbole.com/94190/)
+    - [面试分享：2018阿里巴巴前端面试总结(题目+答案)](http://web.jobbole.com/94371/?utm_source=blog.jobbole.com&utm_medium=relatedPosts)
+    - [毕业一年左右的前端妹子面经总结](http://web.jobbole.com/94548/)
+    - [阿里、网易、滴滴共十次前端面试碰到的问题](http://web.jobbole.com/91429/)
+    - [前端开发者必备思维](http://web.jobbole.com/94190/)
