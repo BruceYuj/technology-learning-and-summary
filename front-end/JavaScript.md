@@ -92,6 +92,7 @@
 4. [ ] [You don't know JavaScript](https://github.com/getify/You-Dont-Know-JS)
 5. [ ] [Dmitry Soshnikov education](http://dmitrysoshnikov.com/)
 6. [ ] [Exploring ES6](http://exploringjs.com/es6/index.html#toc_ch_modules)
+7. [ ] [composing software](https://medium.com/javascript-scene/composing-software-the-book-f31c77fc3ddc)
 
 ## 文章阅读
 1. [ ] [JavaScript术语：shim 和 polyfill](https://www.css88.com/archives/8339)
