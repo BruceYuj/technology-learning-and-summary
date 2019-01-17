@@ -5,6 +5,8 @@
 2. [ ] 动效的持续时间与缓动效果
    - [material design中的设计](https://juejin.im/post/597752bd6fb9a06ba73d783d)
    - [动效落地方法](https://zhuanlan.zhihu.com/p/34815524)
+3. [ ] FLIP Animations
+   - [flip your animations](https://aerotwist.com/blog/flip-your-animations/)
 
 ## 应用
 1. [ ] 旋转魔方轮播

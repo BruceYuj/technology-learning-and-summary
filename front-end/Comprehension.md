@@ -21,6 +21,8 @@
    - [如何开发和部署前端代码](https://www.zhihu.com/question/20790576)
    - [JavaScript Style Guide](https://github.com/standard/standard)
    - [前端遇上Go: 静态资源增量更新的新实践](https://juejin.im/post/5b3efec1e51d4519610dbe30)
+   - [持续集成三剑客](https://efe.baidu.com/blog/front-end-continuous-integration-tools/)
+   - [使用jenkins进行前端项目自动部署](https://www.cnblogs.com/xiaohuochai/p/9096873.html)
 10. [ ] web项目中的权限控制
     - [如何处理客户端权限](https://github.com/bailicangdu/vue2-manage/issues/1)
     - [vue中vue-router和vuex如何权限控制](https://www.cnblogs.com/zhengrunlin/p/8981017.html)
@@ -35,8 +37,17 @@
     - [前端开发者必备思维](http://web.jobbole.com/94190/)
     - [front end developer interview questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions/)
     - [CS interview knowledge map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
+    - [front end JavaScript Interview](https://blog.webf.zone/front-end-javascript-interviews-in-2018-19-e17b0b10514)
 14. [ ] web浏览器实现实时的音视频
     - [WebRTC2SIP与第三方SIP网关对接](https://blog.csdn.net/chenhande1990chenhan/article/details/76291174)
     - [搭建webRTC](https://www.cnblogs.com/wunaozai/p/5520084.html)
     - [sipml5](http://www.doubango.org/sipml5/)
-    - []()
+15. [ ] sourceMap的学习
+    - [introduction source maps](https://blog.teamtreehouse.com/introduction-source-maps)
+16. [ ] lunrjs的研究
+    - [lunrjs](https://github.com/olivernn/lunr.js)
+17. [ ] 移动端的适配
+    - [如何在Vue项目中使用vw实现移动端适配](https://www.w3cplus.com/mobile/vw-layout-in-vue.html)
+    - [再谈Retina下1px的解决方案](https://www.w3cplus.com/css/fix-1px-for-retina.html)
+    - [网易和淘宝移动WEB适配方案再分析](https://zhuanlan.zhihu.com/p/25216275)
+    - [移动端适配知识](https://juejin.im/post/5b6d21daf265da0f9d1a2ed7)

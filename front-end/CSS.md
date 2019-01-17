@@ -18,6 +18,7 @@
   6. [ ] BFC
      - [BFC背后的原理](http://www.cnblogs.com/lhb25/p/inside-block-formatting-ontext.html)
      - [BFC and IFC](https://segmentfault.com/a/1190000004466536)
+
 ## 实践基础
 [cssreference.io: A free visual guide to CSS](https://cssreference.io/)
   1. [ ] transition learning
@@ -35,6 +36,11 @@
   5. [ ] CSS的value and unit
      - 如何理解CSS的像素和screen的像素不一定一样
      - 如何理解em/rem/vw/vh等基本CSS unit
+     - [MDN, used value](https://developer.mozilla.org/en-US/docs/Web/CSS/used_value)
+     - [MDN, specified value](https://developer.mozilla.org/en-US/docs/Web/CSS/specified_value)
+     - [MDN, computed value](https://developer.mozilla.org/en-US/docs/Web/CSS/computed_value)
+     - [MDN, resolved value](https://developer.mozilla.org/en-US/docs/Web/CSS/resolved_value)
+     - [W3C, css2.1 value stages](https://www.w3.org/TR/CSS2/cascade.html#value-stages)
   6. [ ] CSS的cascading order
      - [a标签为什么不继承父标签的颜色](https://www.zhihu.com/question/28370313)
   8. [ ] CSS的 media query
@@ -47,6 +53,15 @@
      - [CSS之before, after伪元素特性表现两则](https://www.zhangxinxu.com/wordpress/2015/04/before-after-pseudo-elements-special-features/)
   12. [ ] getComputedStyle的研究
      - [获取元素CSS值之getComputedStyle方法](https://www.zhangxinxu.com/wordpress/2012/05/getcomputedstyle-js-getpropertyvalue-currentstyle/)
+     - [js中currentStyle和getComputedStyle获取css样式区别](https://blog.csdn.net/weixin_38481963/article/details/79381615)
+  13. [ ] CSSStyleSheet and CSSStyleDeclaration研究
+     - [MDN, CSSStyleSheet](https://developer.mozilla.org/en-US/docs/Web/API/CSSStyleSheet)
+     - [MDN, CSSStyleDeclaration](https://developer.mozilla.org/en-US/docs/Web/API/CSSStyleDeclaration)
+  14. [ ] border-image的研究
+     - [CSS3 border-image详解、应用](https://www.zhangxinxu.com/wordpress/2010/01/css3-border-image/)
+  15. [ ] background相关的研究
+     - [ Background Position：如何使用好CSS背景定位技术](http://www.htmleaf.com/ziliaoku/qianduanjiaocheng/201505031775.html)
+     - [你真的了解background-position](https://www.w3cplus.com/css/background-position-with-percent.html)
 ## 实践
   1. [ ] 水平居中与垂直居中的各种实现方式
      - [css水平居中的各种方法](https://www.cnblogs.com/zuochengsi-9/p/5554340.html)

@@ -12,6 +12,8 @@ This is only the track about my learning !
 
 ## computer science
 1. [Network](./computer-science/network.md)
+2. [Basic concept](./computer-science/basic-concept.md)
+3. [Design pattern](./computer-science/design-pattern.md)
 
 ## front-end
 1. [CSS Learning](./front-end/CSS.md)
@@ -30,6 +32,8 @@ This is only the track about my learning !
 
 ## operation
 1. [Linux](./operation/linux.md)
+2. [Docker](./operation/docker.md)
+3. [Tomcat](./operation/tomcat.md)
 
 ## artificial intelligence
 1. [Image Recognition](./artificial-intelligence/image-recognition.md)
