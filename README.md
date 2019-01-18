@@ -2,8 +2,9 @@
 This is only the track about my learning !
 
 ## todo
-1. [ ] [水平居中与垂直居中的各种实现方式](./front-end/CSS.md#实践)
-2. [ ] 将有意思的blog通过RSS订阅
+1. [ ] [box model 研究](./front-end/CSS.md#标准)
+2. [ ] [水平居中与垂直居中的各种实现方式](./front-end/CSS.md#实践)
+3. [ ] 将有意思的blog通过RSS订阅
       
 ## methodology
 1. [knowledge methodology](./methodology/knowledge.md)
