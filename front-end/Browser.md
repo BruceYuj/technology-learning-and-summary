@@ -41,14 +41,14 @@
    - [event loop processing model](https://html.spec.whatwg.org/multipage/webappapis.html#event-loop-processing-model)
    - [Concurrency model and Event Loop
 ](https://developer.mozilla.org/en-US/docs/Web/JavaScript/EventLoop)
-   - []()
+
 9. [ ] 浏览器工作的原理
    - [how browser work](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/)
 10. [ ] messageChannel的研究
-   - [MessageChannel](https://developer.mozilla.org/en-US/docs/Web/API/MessageChannel)
+    - [MessageChannel](https://developer.mozilla.org/en-US/docs/Web/API/MessageChannel)
 11. [ ] V8 engine
-   - [认识 V8 引擎](https://zhuanlan.zhihu.com/p/27628685)
-   - [V8 Ignition：JS 引擎与字节码的不解之缘](https://cnodejs.org/topic/59084a9cbbaf2f3f569be482)
+    - [认识 V8 引擎](https://zhuanlan.zhihu.com/p/27628685)
+    - [V8 Ignition：JS 引擎与字节码的不解之缘](https://cnodejs.org/topic/59084a9cbbaf2f3f569be482)
 
 ## 应用
 1. [ ] URL中的中文处理
