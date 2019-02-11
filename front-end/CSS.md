@@ -62,6 +62,8 @@
   15. [ ] background相关的研究
      - [ Background Position：如何使用好CSS背景定位技术](http://www.htmleaf.com/ziliaoku/qianduanjiaocheng/201505031775.html)
      - [你真的了解background-position](https://www.w3cplus.com/css/background-position-with-percent.html)
+  16. [ ] FLIP动画技术研究
+     - [FLIP技术给Web布局带来的变化](https://www.w3cplus.com/javascript/animating-layouts-with-the-flip-technique.html)
 ## 实践
   1. [ ] 水平居中与垂直居中的各种实现方式
      - [css水平居中的各种方法](https://www.cnblogs.com/zuochengsi-9/p/5554340.html)
@@ -83,7 +85,8 @@
      - [参考](http://www.htmleaf.com/Demo/201507302329.html)
   7. [ ] page flip效果实现
      - [参考](http://fangyexu.com/gallery/scenery/S05_pageflip.html)
-
+  8. [ ] CSS Button Click Effects
+     - [参考](https://freefrontend.com/css-button-click-effects/)
 ## 预处理器
   1. [ ] sass的总结
      - [官方文档](http://sass-lang.com/documentation/file.SASS_REFERENCE.html)
