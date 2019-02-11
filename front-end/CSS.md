@@ -48,22 +48,22 @@
   9. [ ] Cicada principle to web designers
      - [The Cicada Principle and Why It Matters to Web Designers](https://www.sitepoint.com/the-cicada-principle-and-why-it-matters-to-web-designers/)
   10. [ ] understanding CSS z-index
-     - [MDN, understanding CSS z-index](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index)
+      - [MDN, understanding CSS z-index](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Positioning/Understanding_z_index)
   11. [ ] before, after pseudo-class特性
-     - [CSS之before, after伪元素特性表现两则](https://www.zhangxinxu.com/wordpress/2015/04/before-after-pseudo-elements-special-features/)
+      - [CSS之before, after伪元素特性表现两则](https://www.zhangxinxu.com/wordpress/2015/04/before-after-pseudo-elements-special-features/)
   12. [ ] getComputedStyle的研究
-     - [获取元素CSS值之getComputedStyle方法](https://www.zhangxinxu.com/wordpress/2012/05/getcomputedstyle-js-getpropertyvalue-currentstyle/)
-     - [js中currentStyle和getComputedStyle获取css样式区别](https://blog.csdn.net/weixin_38481963/article/details/79381615)
+      - [获取元素CSS值之getComputedStyle方法](https://www.zhangxinxu.com/wordpress/2012/05/getcomputedstyle-js-getpropertyvalue-currentstyle/)
+      - [js中currentStyle和getComputedStyle获取css样式区别](https://blog.csdn.net/weixin_38481963/article/details/79381615)
   13. [ ] CSSStyleSheet and CSSStyleDeclaration研究
-     - [MDN, CSSStyleSheet](https://developer.mozilla.org/en-US/docs/Web/API/CSSStyleSheet)
-     - [MDN, CSSStyleDeclaration](https://developer.mozilla.org/en-US/docs/Web/API/CSSStyleDeclaration)
+      - [MDN, CSSStyleSheet](https://developer.mozilla.org/en-US/docs/Web/API/CSSStyleSheet)
+      - [MDN, CSSStyleDeclaration](https://developer.mozilla.org/en-US/docs/Web/API/CSSStyleDeclaration)
   14. [ ] border-image的研究
-     - [CSS3 border-image详解、应用](https://www.zhangxinxu.com/wordpress/2010/01/css3-border-image/)
+      - [CSS3 border-image详解、应用](https://www.zhangxinxu.com/wordpress/2010/01/css3-border-image/)
   15. [ ] background相关的研究
-     - [ Background Position：如何使用好CSS背景定位技术](http://www.htmleaf.com/ziliaoku/qianduanjiaocheng/201505031775.html)
-     - [你真的了解background-position](https://www.w3cplus.com/css/background-position-with-percent.html)
+      - [ Background Position：如何使用好CSS背景定位技术](http://www.htmleaf.com/ziliaoku/qianduanjiaocheng/201505031775.html)
+      - [你真的了解background-position](https://www.w3cplus.com/css/background-position-with-percent.html)
   16. [ ] FLIP动画技术研究
-     - [FLIP技术给Web布局带来的变化](https://www.w3cplus.com/javascript/animating-layouts-with-the-flip-technique.html)
+      - [FLIP技术给Web布局带来的变化](https://www.w3cplus.com/javascript/animating-layouts-with-the-flip-technique.html)
 ## 实践
   1. [ ] 水平居中与垂直居中的各种实现方式
      - [css水平居中的各种方法](https://www.cnblogs.com/zuochengsi-9/p/5554340.html)
