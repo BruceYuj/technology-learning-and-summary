@@ -52,3 +52,5 @@
     - [再谈Retina下1px的解决方案](https://www.w3cplus.com/css/fix-1px-for-retina.html)
     - [网易和淘宝移动WEB适配方案再分析](https://zhuanlan.zhihu.com/p/25216275)
     - [移动端适配知识](https://juejin.im/post/5b6d21daf265da0f9d1a2ed7)
+18. [ ] skeleton生成
+    - [一种自动化生成骨架屏的方案](https://github.com/Jocs/jocs.github.io/issues/22)
