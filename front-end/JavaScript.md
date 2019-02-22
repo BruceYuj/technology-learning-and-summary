@@ -47,7 +47,8 @@
 14. [ ] ES中的async
     - [MDN, async](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
     - [aysnc and await](https://hackernoon.com/understanding-async-await-in-javascript-1d81bb079b2c?gi=1bac84b395ff)
- 
+15. [ ] 一条面试题
+    - [一条js面试题](http://www.cnblogs.com/xxcanghai/p/5189353.html)
 
 ## 应用
 1. [ ] 移动端下拉加载、上拉刷新独立实现
